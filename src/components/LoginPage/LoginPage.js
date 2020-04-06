@@ -4,9 +4,11 @@ import LoginForm from '../LoginForm/LoginForm'
 
 const LoginPage = () => {
   return(
-    <section>
+    <section class="login-page">
       <LoginForm />
-      <img src="https://image.tmdb.org/t/p/original//AuGiPiGMYMkSosOJ3BQjDEAiwtO.jpg" alt="movie-poster" />
+      <div class="login-image-container">
+        <img class="login-img" src="https://image.tmdb.org/t/p/original//AuGiPiGMYMkSosOJ3BQjDEAiwtO.jpg" alt="movie-poster" />
+      </div>
     </section>
   )
 }
