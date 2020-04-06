@@ -1,6 +1,6 @@
 import React, { Component } from "react";
-import logo from './logo.svg';
 import './App.css';
+import LoginPage from '../LoginPage/LoginPage'
 
 class App extends Component {
   constructor() {
@@ -8,6 +8,14 @@ class App extends Component {
     this.state = {
       
     }
+  }
+
+  render() {
+    return (
+      <main>
+        <LoginPage />
+      </main>
+    )
   }
 }
 

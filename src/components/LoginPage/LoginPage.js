@@ -6,7 +6,9 @@ const LoginPage = () => {
   return(
     <section>
       <LoginForm />
-      <img src="" />
+      <img src="https://image.tmdb.org/t/p/original//AuGiPiGMYMkSosOJ3BQjDEAiwtO.jpg" alt="movie-poster" />
     </section>
   )
 }
+
+export default LoginPage
