@@ -6,6 +6,21 @@
 
 .site-heading {
     font-family: 'Dokdo', cursive;
-    font-weight: 3em;
+    font-size: 3em;
     width: 50%;
+}
+
+.icon {
+    margin-top: 65px;
+}
+
+.nav-loggin-button {
+    width: 180px;
+    height: 40px;
+}
+
+.nav-loggin-div {
+    margin-top: 25px;
+    margin-left: 25%;
+    justify-content: right;
 }
