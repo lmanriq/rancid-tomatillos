@@ -8,19 +8,25 @@
     font-family: 'Dokdo', cursive;
     font-size: 3em;
     width: 50%;
+    color: white;
 }
 
 .icon {
     margin-top: 65px;
 }
 
-.nav-loggin-button {
-    width: 180px;
-    height: 40px;
-}
-
 .nav-loggin-div {
     margin-top: 25px;
     margin-left: 25%;
     justify-content: right;
+}
+
+.user-name {
+    color: white;
+}
+
+.nav-loggin-button {
+    width: 200px;
+    height: 40px;
+    border-radius: 4px;
 }

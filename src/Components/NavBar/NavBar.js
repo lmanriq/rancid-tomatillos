@@ -12,10 +12,10 @@ const NavBar = () => {
             src="https://www.flaticon.com/authors/freepik"
             />
             <div className='nav-loggin-div'>
-            <button className='nav-loggin-btton'>
+                <h4 className='user-name'>Welcome, Jim Jones</h4>
+                <button className='nav-loggin-button'>
                 <p>login</p>
-            </button>
-            <h4>User Name</h4>
+                </button>
             </div>
         </section>
 
