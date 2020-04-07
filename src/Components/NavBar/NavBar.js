@@ -5,7 +5,7 @@ import './NavBar.css';
 const NavBar = () => {
     return (
         <section className='nav-bar'>
-            <h1 className='site-heading'></h1>
+            <h1 className='site-heading'>Rancid Tomatillos</h1>
             <img 
             alt="icon-image"
             className="icon" 
@@ -15,7 +15,7 @@ const NavBar = () => {
             <button>
                 <p>login</p>
             </button>
-            <h3>User Name</h3>
+            <h4>User Name</h4>
             </div>
         </section>
 

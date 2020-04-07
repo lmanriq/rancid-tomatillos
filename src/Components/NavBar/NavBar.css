@@ -1,0 +1,11 @@
+.nav-bar {
+    display: flex;
+    flex-direction: space-between;
+    background-color: #0C5A1D;
+}
+
+.site-heading {
+    font-family: 'Dokdo', cursive;
+    font-weight: 3em;
+    width: 50%;
+}
